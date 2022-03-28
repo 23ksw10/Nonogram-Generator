@@ -1,6 +1,6 @@
 # Nonogram-Generator
 
-
+About the Project
 
 Usage
 
