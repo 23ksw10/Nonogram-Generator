@@ -1,9 +1,9 @@
 # Nonogram-Generator
 
-About the Project
+## About the Project
 
-Usage
-
+## Usage
+---
 GenNonogram.py [-h] [-d MAXDIM] [-b] [-n [NUMCOLOR]] [-r [GETRESULT]] image
 
     positional arguments:
