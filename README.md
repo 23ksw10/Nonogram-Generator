@@ -2,6 +2,7 @@
 
 ## About the Project
 
+**Nonograms** are picture logic puzzles. 
 ## Usage
 ---
 GenNonogram.py [-h] [-d MAXDIM] [-b] [-n [NUMCOLOR]] [-r [GETRESULT]] image
