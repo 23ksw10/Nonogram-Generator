@@ -3,6 +3,7 @@
 ## About the Project
 
 **Nonograms** are picture logic puzzles. Mode details about Nonogram(https://en.wikipedia.org/wiki/Nonogram)
+**Nonogram-Generators** can 
 ## Usage
 ---
 GenNonogram.py [-h] [-d MAXDIM] [-b] [-n [NUMCOLOR]] [-r [GETRESULT]] image
