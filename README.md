@@ -3,7 +3,7 @@
 ## About the Project
 
 ![test](https://user-images.githubusercontent.com/50804079/160569499-11dd6075-5d5d-4fcf-9794-5cd059a56e82.jpg)
-<img src="https://user-images.githubusercontent.com/50804079/160569499-11dd6075-5d5d-4fcf-9794-5cd059a56e82.jpg" >
+<img src="https://user-images.githubusercontent.com/50804079/160569499-11dd6075-5d5d-4fcf-9794-5cd059a56e82.jpg"  width="700">
 **Nonograms** are picture logic puzzles. Mode details about Nonogram(https://en.wikipedia.org/wiki/Nonogram)
 
 
