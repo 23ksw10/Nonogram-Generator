@@ -2,6 +2,8 @@
 
 ## About the Project
 
+https://user-images.githubusercontent.com/50804079/160568680-e51fc805-fc72-4fd9-a6b3-5625e21ce1bb.jpg
+
 **Nonograms** are picture logic puzzles. Mode details about Nonogram(https://en.wikipedia.org/wiki/Nonogram)
 
 
