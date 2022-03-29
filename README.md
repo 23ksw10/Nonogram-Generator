@@ -5,7 +5,7 @@
 **Nonograms** are picture logic puzzles. Mode details about Nonogram(https://en.wikipedia.org/wiki/Nonogram)
 
 
-**Nonogram-Generators** can make any pictures you have to Nonogram. Color or Black and White
+**Nonogram-Generators** can make any pictures you have to Nonogram. Color or Black and White. Any size you want.
 ## Usage
 ---
 GenNonogram.py [-h] [-d MAXDIM] [-b] [-n [NUMCOLOR]] [-r [GETRESULT]] image
